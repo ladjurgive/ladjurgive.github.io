@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ladjurgive.github.io/sitemap
+Sitemap: https://ladjurgive.github.io/app/sitemap
+Sitemap: https://ladjurgive.github.io/assets/sitemap
+Sitemap: https://ladjurgive.github.io/css/sitemap
+Sitemap: https://ladjurgive.github.io/includes/sitemap
+Sitemap: https://ladjurgive.github.io/item/sitemap
+Sitemap: https://ladjurgive.github.io/src/sitemap
